@@ -242,6 +242,7 @@ EverTest/
 
 ```bash
 git clone https://github.com/Diblock/EverTest.git
+y pulsar iniciar.bat
 ```
 
 ### 2. Acceder al directorio
