@@ -64,36 +64,30 @@ EverTest busca mejorar la preparación de exámenes mediante herramientas de apr
     <td width="50%" align="center" valign="top">
       <h3>Panel principal</h3>
       <img src="media/screenshots/dashboard1.png" width="220" alt="Dashboard EverTest" />
-      <img src="media/screenshots/dashboard2.png" width="220" alt="Estadísticas EverTest" />
     </td>
     <td width="50%" align="center" valign="top">
       <h3>Gestión de exámenes</h3>
-      <img src="media/screenshots/examenes1.png" width="220" alt="Listado de exámenes" />
-      <img src="media/screenshots/examenes2.png" width="220" alt="Gestión de exámenes" />
+      <img src="media/screenshots/crearexamen.jpg" width="220" alt="Listado de exámenes" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>Realización de exámenes</h3>
-      <img src="media/screenshots/test1.png" width="220" alt="Preguntas del examen" />
-      <img src="media/screenshots/test2.png" width="220" alt="Respuestas del examen" />
+      <img src="media/screenshots/test1.jpg" width="220" alt="Preguntas del examen" />
     </td>
     <td width="50%" align="center" valign="top">
       <h3>Resultados y estadísticas</h3>
-      <img src="media/screenshots/resultados1.png" width="220" alt="Resultados obtenidos" />
-      <img src="media/screenshots/resultados2.png" width="220" alt="Historial de resultados" />
+      <img src="media/screenshots/historial.jpg" width="220" alt="Resultados obtenidos" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>Creación de exámenes</h3>
-      <img src="media/screenshots/crear1.png" width="220" alt="Crear examen" />
-      <img src="media/screenshots/crear2.png" width="220" alt="Editor de preguntas" />
+      <img src="media/screenshots/creacion.jpg" width="220" alt="Crear examen" />
     </td>
     <td width="50%" align="center" valign="top">
       <h3>Importación JSON</h3>
-      <img src="media/screenshots/importar1.png" width="220" alt="Importación de preguntas" />
-      <img src="media/screenshots/importar2.png" width="220" alt="Importación de exámenes" />
+      <img src="media/screenshots/importar.jpg" width="220" alt="Importación de preguntas" />
     </td>
   </tr>
 </table>
