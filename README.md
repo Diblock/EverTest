@@ -83,7 +83,7 @@ EverTest busca mejorar la preparación de exámenes mediante herramientas de apr
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>DashBoard</h3>
-      <img src="media/screenshots/dashboard2.jpg" width="220" alt="Crear examen" />
+      <img src="media/screenshots/dashboard2.png" width="220" alt="Dashboard" />
     </td>
     <td width="50%" align="center" valign="top">
       <h3>Importación JSON</h3>
